@@ -1,0 +1,54 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Inter",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Inter",
+          "fontStyle": "normal",
+          "fontWeight": 600
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Inter",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]
